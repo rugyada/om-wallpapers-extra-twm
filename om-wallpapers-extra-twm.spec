@@ -7,7 +7,7 @@ Group:		Graphics
 #Url:		https://www.openmandriva.org
 Url:		https://github.com/rugyada/om-wallpapers-extra-twm
 #Source0:	%{name}-%{version}.tar.gz
-Source0:	https://github.com/rugyada/%{name}-%{version}.tar.gz
+Source0:	https://github.com/rugyada/om-wallpapers-extra-twm/%{name}-%{version}.tar.gz
 BuildArch:	noarch
 
 %description
