@@ -1,4 +1,4 @@
-Summary:	Collection of wallpapers provided by OpenMandriva users
+Summary:	Collection of wallpapers provided by OpenMandriva users for Tiling Window Manager
 Name:		om-wallpapers-extra-twm
 Version:	1
 Release:	0
