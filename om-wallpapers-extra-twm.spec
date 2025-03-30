@@ -1,7 +1,7 @@
 Summary:	Collection of wallpapers provided by OpenMandriva users for Tiling Window Manager
 Name:		om-wallpapers-extra-twm
-Version:	1
-Release:	0
+Version:	1.0
+Release:	1
 License:	GPL
 Group:		Graphics
 #Url:		https://www.openmandriva.org
